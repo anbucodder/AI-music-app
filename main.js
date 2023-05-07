@@ -6,7 +6,8 @@ rightwx = 0;
 rightwy = 0;
 scoreRightWrist = 0;
 scoreLeftWrist = 0;
-song1status = "";
+song1status = "false";
+song2status = "false";
 
 function preload(){
     song1=loadSound(peterpan);
